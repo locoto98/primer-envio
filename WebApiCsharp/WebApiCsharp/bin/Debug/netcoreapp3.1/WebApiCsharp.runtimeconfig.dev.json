@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Locoto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Locoto\\.nuget\\packages"
+    ]
+  }
+}
